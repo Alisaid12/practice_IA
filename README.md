@@ -1,1 +1,1 @@
-Practiva de machine learing y deep learing
+Practice  machine learing And  deep learing
